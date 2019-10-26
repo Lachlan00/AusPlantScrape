@@ -111,25 +111,23 @@ images/native/Apiaceae/Centella_asiatica/
 
 ### Images
 
+**0-Centella_asiatica.jpg**
 <img src="https://github.com/Lachlan00/AusPlantScrape/blob/master/images/native/Apiaceae/Centella_asiatica/0-Centella_asiatica.jpg" width=250/>
-*0-Centella_asiatica.jpg*
 
+**1-Centella_asiatica.jpg**
 <img src="https://github.com/Lachlan00/AusPlantScrape/blob/master/images/native/Apiaceae/Centella_asiatica/1-Centella_asiatica.jpg" width=250/>
-*1-Centella_asiatica.jpg*
 
+**2-Centella_asiatica.jpg**
 <img src="https://github.com/Lachlan00/AusPlantScrape/blob/master/images/native/Apiaceae/Centella_asiatica/2-Centella_asiatica.jpg" width=250/>
-*2-Centella_asiatica.jpg*
 
+**3-Centella_asiatica.jpg**
 <img src="https://github.com/Lachlan00/AusPlantScrape/blob/master/images/native/Apiaceae/Centella_asiatica/3-Centella_asiatica.jpg" width=250/>
-*3-Centella_asiatica.jpg*
 
+**4-Centella_asiatica.jpg**
 <img src="https://github.com/Lachlan00/AusPlantScrape/blob/master/images/native/Apiaceae/Centella_asiatica/4-Centella_asiatica.jpg" width=250/>
-*4-Centella_asiatica.jpg*
 
+**5-Centella_asiatica.jpg**
 <img src="https://github.com/Lachlan00/AusPlantScrape/blob/master/images/native/Apiaceae/Centella_asiatica/5-Centella_asiatica.jpg" width=250/>
-*5-Centella_asiatica.jpg*
 
+**6-Centella_asiatica.jpg**
 <img src="https://github.com/Lachlan00/AusPlantScrape/blob/master/images/native/Apiaceae/Centella_asiatica/6-Centella_asiatica.jpg" width=250/>
-*6-Centella_asiatica.jpg*
-
-
