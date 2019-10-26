@@ -2,7 +2,7 @@
 
 """
 A program to download low resolution images from the Australian Plant Image Index on the Australian National Botanical Gardens webpage. 
-As of 2017-Oct-10, non-commercial use of low-resolution images downloaded from the Photo Collection area of the website 
+As of 2019-Oct-26, non-commercial use of low-resolution images downloaded from the Photo Collection area of the website 
 is allowed on condition that the photographer is credited by name, if known, and that the copyright holder is also acknowledged. 
 The source of the image should be listed as the Australian National Botanic Gardens and these words linked to the 
 Photo Collection home page, http://www.anbg.gov.au/photo. For more up to date information on licensing visit: 
@@ -194,17 +194,3 @@ df.to_csv(base_dir + "photo_metadata.csv", index=False)
 print('Done!')
 print('Photos saved to "'+base_dir+'"')
     
-        
-        
-        
-    
-    
-    
-
-
-
-
-
-
-
-
