@@ -16,13 +16,13 @@ plant_list = './data/example-plant-list.csv' # file path of input plant list
 base_dir = './images/' # where you want to save the images to
 ```
 
-The program will save the images into directories based first on *group*, then *family* and then *genus_species_sub.var*. Each of the species directory will contains all available images for that plant.Once this is done you can simply execute the program and the images will be downloaded. Image metadata will also be downloaded with the image links and photographer the image is to be attributed to.
+The program will save the images into directories based first on *group*, then *family* and then *genus_species_sub.var*. Each of the species directory will contains all available images for that plant.Once this is done you can simply execute the program and the images will be downloaded:
 
 ```bash
 python plant_scraper.py
 ```
 
-Your input plant list should be in the following format. See the `example-plant-list.csv` file.
+Image metadata will also be downloaded with the image links and photographer the image is to be attributed to. Your input plant list should be in the following format. See the `example-plant-list.csv` file.
 
 group | family | genus | species | sub.var
 --- | --- | --- | --- | ---
