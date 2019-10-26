@@ -44,7 +44,7 @@ intro | Poaceae | Paspalum | dilatatum | NA
 
 In this example we have downloaded a set of plant images for a region devided into "native" and "introduced" for quick identification in the field.
 
-### Direcotry file tree
+### Direcotory file tree
 
 ```
 images
