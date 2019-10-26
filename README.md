@@ -40,9 +40,11 @@ intro | Brassicaceae | Cakile | maritima | subsp. maritima
 intro | Poaceae | Lagurus | ovatus | NA
 intro | Poaceae | Paspalum | dilatatum | NA
 
-## Example output directory file tree
+## Example Output
 
-Image directories:
+In this example we have downloaded a set of plant images for a region devided into "native" and "introduced" for quick identification in the field.
+
+### Direcotry file tree
 
 ```
 images
@@ -94,7 +96,7 @@ images
         └── Solanum_vescum
 ```
 
-Image set:
+### Image set
 
 ```
 images/native/Apiaceae/Centella_asiatica/
@@ -107,10 +109,27 @@ images/native/Apiaceae/Centella_asiatica/
 └── 6-Centella_asiatica.jpg
 ```
 
+### Images
+
 ![0-Centella_asiatica.jpg](https://github.com/Lachlan00/AusPlantScrape/blob/master/images/native/Apiaceae/Centella_asiatica/0-Centella_asiatica.jpg)
+*0-Centella_asiatica.jpg*
+
 ![1-Centella_asiatica.jpg](https://github.com/Lachlan00/AusPlantScrape/blob/master/images/native/Apiaceae/Centella_asiatica/1-Centella_asiatica.jpg)
+*1-Centella_asiatica.jpg*
+
 ![2-Centella_asiatica.jpg](https://github.com/Lachlan00/AusPlantScrape/blob/master/images/native/Apiaceae/Centella_asiatica/2-Centella_asiatica.jpg)
+*2-Centella_asiatica.jpg*
+
 ![3-Centella_asiatica.jpg](https://github.com/Lachlan00/AusPlantScrape/blob/master/images/native/Apiaceae/Centella_asiatica/3-Centella_asiatica.jpg)
+*3-Centella_asiatica.jpg*
+
 ![4-Centella_asiatica.jpg](https://github.com/Lachlan00/AusPlantScrape/blob/master/images/native/Apiaceae/Centella_asiatica/4-Centella_asiatica.jpg)
+*4-Centella_asiatica.jpg*
+
 ![5-Centella_asiatica.jpg](https://github.com/Lachlan00/AusPlantScrape/blob/master/images/native/Apiaceae/Centella_asiatica/5-Centella_asiatica.jpg)
+*5-Centella_asiatica.jpg*
+
 ![6-Centella_asiatica.jpg](https://github.com/Lachlan00/AusPlantScrape/blob/master/images/native/Apiaceae/Centella_asiatica/6-Centella_asiatica.jpg)
+*6-Centella_asiatica.jpg*
+
+
