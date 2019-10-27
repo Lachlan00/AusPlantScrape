@@ -22,7 +22,7 @@ Once this is done you can simply execute the program and the images will be down
 python plant_scraper.py
 ```
 
-Your input plant list should be in the following format. See the `example-plant-list.csv` file.s
+Your input plant list should be in the following format. See the `example-plant-list.csv` file.
 
 group | family | genus | species | sub.var
 --- | --- | --- | --- | ---
