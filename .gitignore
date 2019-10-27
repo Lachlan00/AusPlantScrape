@@ -1,5 +1,5 @@
 #.gitignore
 # ignore personal data collection
 data/myData/
-# ignoe pycache
+# ignore pycache
 __pycache__/
